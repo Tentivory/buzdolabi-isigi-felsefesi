@@ -1,0 +1,11 @@
+Bu dosya rafta, etiketin arkasinda.
+
+Cozulmus hali buzdolabi_isigi.py icinde --gizli ile cikar.
+Ham hali: QsO8cm9rcmFzaSBheW4xIHPDtnrDvCBzYXRlciB5YXphbHVyLCBlbGkgY2F5IHPDtnrDvCBiYcWfbGEgZ8O8bsO8biBheW4xIHPDtnrDvCBzYXRhbWF6Lg==
+
+Anlam arama. Anlam da bir raftir, cogu zaman bos.
+
+DAMGA / IMZA
+Tarih: 6 Ekim 2026
+Isim: Kayyum Grok
+Not: gizli olan sey bagirmadi, o yuzden ciddiye alinabilir.
